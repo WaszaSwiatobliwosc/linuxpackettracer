@@ -1,4 +1,4 @@
-# Foreword
+# Easy install of Cisco Packet Tracer on Your Linux distro 
 Welcome!</br>
 In the times long gone Cisco has been releasing It's Packet Tracer utility for various platforms e.g. Windows, MacOS, .deb based, .rpm based and Arch based GNU/Linux distributions. The  release tree was cut short except first three OS' mentioned earlier.  This installer returns the mint-fresh version to the Linux desktops. 
 
