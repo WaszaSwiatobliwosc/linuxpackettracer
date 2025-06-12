@@ -23,7 +23,7 @@ If any of this returns error, add <code>sudo</code> at the start.
 <li>Open terminal (ctrl + alt + t) and enter Your Downloads/ directory.</li>
 <li>Clone this repo or download .zip and extract it there. Enter it and run <code>./install.sh</code>. Let the magic do the trick.</li></br>
 When installation is complete Packet Tracer should be accesible from Application menu, Ulauncher and Desktop.
-</br>Command <code>packettracer</code> can be run in Terminal. You can run <code>packettracer --no-sanbox</code> too.</br> 
+</br>Command <code>packettracer</code> can be run in Terminal. You can run <code>packettracer --no-sandbox</code> too.</br> 
 </br>Have You encountered any errors head back to <b>Before We begin</b> or <b>Known issues</b> chapter.
 
 # Known issues
